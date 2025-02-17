@@ -1,2 +1,2 @@
 # odin-recipes
-Here we need to add project details. I will add later what are changes we have done after some time.....
+Keep coming up to see the recipe used in your favorite dish..
